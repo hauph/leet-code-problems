@@ -1,0 +1,3 @@
+- Link: https://leetcode.com/problems/self-dividing-numbers/
+- Solution:
+  - [Javascript](index.js)

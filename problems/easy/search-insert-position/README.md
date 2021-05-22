@@ -1,0 +1,3 @@
+- Link: https://leetcode.com/problems/search-insert-position/
+- Solution:
+  - [Javascript](index.js)

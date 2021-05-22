@@ -1,0 +1,3 @@
+- Link: https://leetcode.com/problems/intersection-of-two-arrays/
+- Solution:
+  - [Javascript](index.js)

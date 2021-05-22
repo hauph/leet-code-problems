@@ -1,0 +1,3 @@
+- Link: https://leetcode.com/problems/remove-element/
+- Solution:
+  - [Javascript](index.js)

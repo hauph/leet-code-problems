@@ -1,0 +1,3 @@
+- Link: https://leetcode.com/problems/contains-duplicate/
+- Solution: 
+  - [Javascript](index.js)
