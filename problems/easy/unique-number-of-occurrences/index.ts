@@ -1,8 +1,4 @@
-/**
- * @param {number[]} arr
- * @return {boolean}
- */
- var uniqueOccurrences = function(arr) {
+function uniqueOccurrencesTS(arr: number[]): boolean {
     const obj = {};
     for (let i = 0; i < arr.length; i++) {
         const item = arr[i];
@@ -14,7 +10,7 @@
     }
     const arrVal = [];
     const arrKey = [];
-    for (item in obj) {
+    for (let item in obj) {
         arrKey.push(item);
         const value = obj[item];
         if (arrVal.indexOf(value) === -1) {

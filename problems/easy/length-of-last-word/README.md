@@ -1,3 +1,4 @@
 - Link: https://leetcode.com/problems/length-of-last-word/
 - Solution:
   - [Javascript](index.js)
+  - [Typescript](index.ts)

@@ -10,14 +10,10 @@
  * @param {ListNode} head
  * @return {boolean}
  */
- var hasCycle = function(head) {
-    if (head === null) {
+var hasCycle = function(head) {
+    if (head === null || head.next === null) {
         return false
     } else {
-        if(head.next === null) {
-            return false;
-        }
-        
         head.pos = 0;
         let currNode = head;
         while (currNode.next !== null) {

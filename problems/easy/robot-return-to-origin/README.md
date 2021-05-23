@@ -1,3 +1,4 @@
 - Link: https://leetcode.com/problems/robot-return-to-origin/
 - Solution:
   - [Javascript](index.js)
+  - [Typescript](index.ts)

@@ -1,3 +1,4 @@
 - Link: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 - Solution:
   - [Javascript](index.js)
+  - [Typescript](index.ts)

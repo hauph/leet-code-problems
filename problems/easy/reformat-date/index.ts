@@ -1,8 +1,4 @@
-/**
- * @param {string} date
- * @return {string}
- */
- var reformatDate = function(date) {
+function reformatDateTS(date: string): string {
     const splitDate = date.split(' ');
     const year = splitDate[2];
     let month;

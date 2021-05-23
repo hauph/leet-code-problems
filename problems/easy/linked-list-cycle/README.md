@@ -1,3 +1,5 @@
 - Link: https://leetcode.com/problems/linked-list-cycle/
 - Solution
   - [Javascript](index.js)
+  - [Typescript](index.ts);
+  - [My Shortest solution](shortest.js)

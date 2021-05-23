@@ -1,3 +1,4 @@
 - Link: https://leetcode.com/problems/happy-number/
 - Solution:
   - [Javascript](index.js)
+  - [Typescript](index.ts)

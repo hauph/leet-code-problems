@@ -1,3 +1,4 @@
 - Link: https://leetcode.com/problems/unique-number-of-occurrences/
 - Solution:
   - [Javascript](index.js)
+  - [Typescript](index.ts)

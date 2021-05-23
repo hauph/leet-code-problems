@@ -1,3 +1,4 @@
 - Link: https://leetcode.com/problems/two-sum/
 - Solution
   - [Javascript](index.js)
+  - [Typescript](index.ts)
