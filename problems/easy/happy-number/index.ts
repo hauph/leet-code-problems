@@ -4,13 +4,13 @@ function isHappyTS(n: number): boolean {
     } else if (n === 0) {
         return false;
     } else {
-        let total = n;
-        const c = [];
+        let total: number = n;
+        const c: boolean[] = [];
         while (total > 1 && c[total] !== true) {
             c[total] = true;
             let arr: any = total.toString().split('');
             arr = arr.map(num => Math.pow(Number(num), 2));
-            total = arr.reduce((a, b) => a + b, 0);
+            total = arr.reduce((a: number, b: number): number => a + b, 0);
         }
 
         return total === 1;

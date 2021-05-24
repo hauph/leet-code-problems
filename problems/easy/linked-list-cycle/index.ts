@@ -12,11 +12,11 @@
 
 function hasCycleTS(head: ListNode | null): boolean {
     if (head === null || head.next === null) {
-        return false
+        return false;
     } else {
-        let currNode = head;
-        let duplicate = 0;
-        const arr = [];
+        let currNode: ListNode = head;
+        let duplicate: number = 0;
+        const arr: number[] = [];
         while (currNode.next !== null) {
           if (currNode.next && duplicate !== 2) {
               if (arr.indexOf(currNode.next.val) === -1) {

@@ -18,7 +18,7 @@
 */
 var hasCycle = function(head) {
     if (head === null || head.next === null) {
-        return false
+        return false;
     } else {
         try {
             // If there is no cycle, it can be deep cloned without error
@@ -26,7 +26,7 @@ var hasCycle = function(head) {
             return false;
         } catch(err) {
             // It there is cycle, it cannot be deep cloned and thus error will appear
-            return true
+            return true;
         }
     }
 };

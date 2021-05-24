@@ -1,11 +1,11 @@
 function searchInsertTS(nums: number[], target: number): number {
-    const index = nums.indexOf(target);
+    const index: number = nums.indexOf(target);
     if (index !== -1) {
         return index;
     } else {
-        let result;
+        let result: number;
         for (let i = nums.length - 1; i >= 0; i--) {
-            const num = nums[i];
+            const num: number = nums[i];
             if (num < target) {
                 result = i + 1;
                 break;

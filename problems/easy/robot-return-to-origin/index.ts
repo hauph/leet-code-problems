@@ -1,8 +1,13 @@
+interface Position {
+    x: number
+    y: number
+}
+
 function judgeCircleTS(moves: string): boolean {
-    const position = {x:0,y:0};
-    const moveArr = moves.split('');
+    const position: Position = {x:0,y:0};
+    const moveArr: string[] = moves.split('');
     for (let i = 0; i < moveArr.length; i++) {
-        const move = moveArr[i];
+        const move: string = moveArr[i];
         switch (move) {
             case 'U':
                 position.y += 1;

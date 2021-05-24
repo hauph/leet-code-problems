@@ -12,5 +12,5 @@
     if (fiteredArr.length === 0) {
         return 0;
     }
-    return fiteredArr[fiteredArr.length - 1].length
+    return fiteredArr[fiteredArr.length - 1].length;
 };

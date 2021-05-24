@@ -1,8 +1,8 @@
 function reformatDateTS(date: string): string {
-    const splitDate = date.split(' ');
-    const year = splitDate[2];
-    let month;
-    let day;
+    const splitDate: string[] = date.split(' ');
+    const year: string = splitDate[2];
+    let month: string;
+    let day: string;
     switch (splitDate[1]) {
         case 'Feb':
             month = '02';

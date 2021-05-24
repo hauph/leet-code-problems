@@ -1,6 +1,6 @@
 function lengthOfLastWordTS(s: string): number {
-    const splitS = s.split(' ');
-    const fiteredArr = splitS.filter(item => {
+    const splitS: string[] = s.split(' ');
+    const fiteredArr: string[] = splitS.filter(item => {
         if (item !== '') {
             return item
         }
@@ -8,5 +8,5 @@ function lengthOfLastWordTS(s: string): number {
     if (fiteredArr.length === 0) {
         return 0;
     }
-    return fiteredArr[fiteredArr.length - 1].length
+    return fiteredArr[fiteredArr.length - 1].length;
 };
