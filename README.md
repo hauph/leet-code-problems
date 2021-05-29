@@ -1,5 +1,8 @@
-## Easy: 16 problems
+## Easy: 22 problems
+  - [Base 7](problems/easy/base-7/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
+  - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
+  - [Find Mode in Binary Search Tree](problems/easy/find-mode-in-binary-search-tree/README.md)
   - [Happy Number](problems/easy/happy-number/README.md)
   - [Intersection of Two Arrays](problems/easy/intersection-of-two-arrays/README.md)
   - [Intersection of Two Arrays II](problems/easy/intersection-of-two-arrays-ii/README.md)
@@ -8,10 +11,13 @@
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
   - [Reformat Date](problems/easy/reformat-date/README.md)
   - [Remove Duplicates from Sorted Array](problems/easy/remove-duplicates-from-sorted-array/README.md)
+  - [Remove Duplicates from Sorted List](problems/easy/remove-duplicates-from-sorted-list/README.md)
   - [Remove Element](problems/easy/remove-element/README.md)
   - [Robot Return to Origin](problems/easy/robot-return-to-origin/README.md)
+  - [Search in a Binary Search Tree](problems/easy/search-in-a-binary-search-tree/README.md)
   - [Search Insert Position](problems/easy/search-insert-position/README.md)
   - [Self Dividing Numbers](problems/easy/self-dividing-numbers/README.md)
   - [Sum of Even Numbers After Queries](problems/easy/sum-of-even-numbers-after-queries/README.md)
+  - [Transpose Matrix](problems/easy/transpose-matrix/README.md)
   - [Two Sum](problems/easy/two-sum/README.md)
   - [Unique Number of Occurrences](problems/easy/unique-number-of-occurrences/README.md)

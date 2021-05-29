@@ -1,0 +1,3 @@
+- Link: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+- Solution:
+  - [Javascript](index.js)
