@@ -1,23 +1,24 @@
 /**
  * Definition for singly-linked list.
- * function ListNode(val, next) {
- *     this.val = (val===undefined ? 0 : val)
- *     this.next = (next===undefined ? null : next)
+ * class ListNode {
+ *     val: number
+ *     next: ListNode | null
+ *     constructor(val?: number, next?: ListNode | null) {
+ *         this.val = (val===undefined ? 0 : val)
+ *         this.next = (next===undefined ? null : next)
+ *     }
  * }
  */
-/**
- * @param {ListNode} head
- * @return {ListNode}
- */
- var deleteDuplicates = function(head) {
+
+ function deleteDuplicatesTS(head: ListNode | null): ListNode | null {
     if (head === null || head.next === null) {
         return head;
     }
     
-    let currentNode = head;
-    let counter = 0;
+    let currentNode: ListNode = head;
+    let counter: number = 0;
     while (counter < 300) {
-        const val = currentNode.val;
+        const val: number = currentNode.val;
         if (currentNode.next && val === currentNode.next.val) {
             currentNode.next = currentNode.next.next;
         } 

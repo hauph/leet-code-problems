@@ -1,3 +1,4 @@
 - Link: https://leetcode.com/problems/base-7/
 - Solution:
   - [Javascript](index.js)
+  - [Typescript](index.ts)

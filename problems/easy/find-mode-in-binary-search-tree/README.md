@@ -1,3 +1,4 @@
 - Link: https://leetcode.com/problems/find-mode-in-binary-search-tree/
 - Solution:
   - [Javascript](index.js)
+  - [Typescript](index.ts)
