@@ -1,14 +1,17 @@
-## Easy: 22 problems
+## Easy: 25 problems
   - [Base 7](problems/easy/base-7/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
   - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
   - [Find Mode in Binary Search Tree](problems/easy/find-mode-in-binary-search-tree/README.md)
+  - [Find the Highest Altitude](problems/easy/find-the-highest-altitude/README.md)
   - [Happy Number](problems/easy/happy-number/README.md)
   - [Intersection of Two Arrays](problems/easy/intersection-of-two-arrays/README.md)
   - [Intersection of Two Arrays II](problems/easy/intersection-of-two-arrays-ii/README.md)
+  - [Latest Time by Replacing Hidden Digits](problems/easy/latest-time-by-replacing-hidden-digits/README.md)
   - [Length of Last Word](problems/easy/length-of-last-word/README.md)
   - [Linked List Cycle](problems/easy/linked-list-cycle/README.md)
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
+  - [Minimum Value to Get Positive Step by Step Sum](problems/easy/minimum-value-to-get-positive-step-by-step-sum/README.md)
   - [Reformat Date](problems/easy/reformat-date/README.md)
   - [Remove Duplicates from Sorted Array](problems/easy/remove-duplicates-from-sorted-array/README.md)
   - [Remove Duplicates from Sorted List](problems/easy/remove-duplicates-from-sorted-list/README.md)
