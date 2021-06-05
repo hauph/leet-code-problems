@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+- Solution:
+  - [Javascript](index.js)
+  <!-- - [Typescript](index.ts) -->

@@ -1,9 +1,12 @@
-## Easy: 25 problems
+## Easy: 28 problems
   - [Base 7](problems/easy/base-7/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
   - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
+  - [Day of the Week](problems/easy/day-of-the-week/README.md)
+  - [Find All Numbers Disappeared in an Array](problems/easy/find-all-numbers-disappeared-in-an-array/README.md)
   - [Find Mode in Binary Search Tree](problems/easy/find-mode-in-binary-search-tree/README.md)
   - [Find the Highest Altitude](problems/easy/find-the-highest-altitude/README.md)
+  - [Find Winner on a Tic Tac Toe Game](problems/easy/find-winner-on-a-tic-tac-toe-game/README.md)
   - [Happy Number](problems/easy/happy-number/README.md)
   - [Intersection of Two Arrays](problems/easy/intersection-of-two-arrays/README.md)
   - [Intersection of Two Arrays II](problems/easy/intersection-of-two-arrays-ii/README.md)
