@@ -1,4 +1,4 @@
 - Link: https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 - Solution:
   - [Javascript](index.js)
-  <!-- - [Typescript](index.ts) -->
+  - [Typescript](index.ts)
