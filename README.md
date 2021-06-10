@@ -1,4 +1,4 @@
-## Easy: 28 problems
+## Easy: 29 problems
   - [Base 7](problems/easy/base-7/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
   - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
@@ -24,6 +24,7 @@
   - [Search Insert Position](problems/easy/search-insert-position/README.md)
   - [Self Dividing Numbers](problems/easy/self-dividing-numbers/README.md)
   - [Sum of Even Numbers After Queries](problems/easy/sum-of-even-numbers-after-queries/README.md)
+  - [Third Maximum Number](problems/easy/third-maximum-number/README.md)
   - [Transpose Matrix](problems/easy/transpose-matrix/README.md)
   - [Two Sum](problems/easy/two-sum/README.md)
   - [Unique Number of Occurrences](problems/easy/unique-number-of-occurrences/README.md)
