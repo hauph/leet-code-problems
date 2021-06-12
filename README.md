@@ -1,6 +1,8 @@
-## Easy: 29 problems
+## Easy: 32 problems
   - [Base 7](problems/easy/base-7/README.md)
+  - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
+  - [Count Negative Numbers in a Sorted Matrix](problems/easy/count-negative-numbers-in-a-sorted-matrix/README.md)
   - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
   - [Day of the Week](problems/easy/day-of-the-week/README.md)
   - [Find All Numbers Disappeared in an Array](problems/easy/find-all-numbers-disappeared-in-an-array/README.md)
@@ -16,6 +18,7 @@
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
   - [Minimum Value to Get Positive Step by Step Sum](problems/easy/minimum-value-to-get-positive-step-by-step-sum/README.md)
   - [Reformat Date](problems/easy/reformat-date/README.md)
+  - [Relative Sort Array](problems/easy/relative-sort-array/README.md)
   - [Remove Duplicates from Sorted Array](problems/easy/remove-duplicates-from-sorted-array/README.md)
   - [Remove Duplicates from Sorted List](problems/easy/remove-duplicates-from-sorted-list/README.md)
   - [Remove Element](problems/easy/remove-element/README.md)
