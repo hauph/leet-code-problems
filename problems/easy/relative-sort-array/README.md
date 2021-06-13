@@ -1,4 +1,4 @@
 - Link: https://leetcode.com/problems/relative-sort-array/
 - Solution:
   - [Javascript](index.js)
-  <!-- - [Typescript](index.ts) -->
+  - [Typescript](index.ts)

@@ -2,4 +2,4 @@
 - Solution:
   - [Javascript](index.js)
   - [My shortest solution](shortest.js)
-  <!-- - [Typescript](index.ts) -->
+  - [Typescript](index.ts)

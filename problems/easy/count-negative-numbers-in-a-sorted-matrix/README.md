@@ -1,4 +1,4 @@
 - Link: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 - Solution:
   - [Javascript](index.js)
-  <!-- - [Typescript](index.ts) -->
+  - [Typescript](index.ts)
