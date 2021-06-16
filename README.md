@@ -1,8 +1,9 @@
-## Easy: 32 problems
+## Easy: 34 problems
   - [Base 7](problems/easy/base-7/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
   - [Count Negative Numbers in a Sorted Matrix](problems/easy/count-negative-numbers-in-a-sorted-matrix/README.md)
+  - [Create Target Array in the Given Order](problems/easy/create-target-array-in-the-given-order/README.md)
   - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
   - [Day of the Week](problems/easy/day-of-the-week/README.md)
   - [Find All Numbers Disappeared in an Array](problems/easy/find-all-numbers-disappeared-in-an-array/README.md)
@@ -15,6 +16,7 @@
   - [Latest Time by Replacing Hidden Digits](problems/easy/latest-time-by-replacing-hidden-digits/README.md)
   - [Length of Last Word](problems/easy/length-of-last-word/README.md)
   - [Linked List Cycle](problems/easy/linked-list-cycle/README.md)
+  - [Make Two Arrays Equal by Reversing Sub-arrays](problems/easy/make-two-arrays-equal-by-reversing-sub-arrays/README.md)
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
   - [Minimum Value to Get Positive Step by Step Sum](problems/easy/minimum-value-to-get-positive-step-by-step-sum/README.md)
   - [Reformat Date](problems/easy/reformat-date/README.md)
