@@ -1,4 +1,4 @@
-## Easy: 34 problems
+## Easy: 36 problems
   - [Base 7](problems/easy/base-7/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
@@ -10,6 +10,7 @@
   - [Find Mode in Binary Search Tree](problems/easy/find-mode-in-binary-search-tree/README.md)
   - [Find the Highest Altitude](problems/easy/find-the-highest-altitude/README.md)
   - [Find Winner on a Tic Tac Toe Game](problems/easy/find-winner-on-a-tic-tac-toe-game/README.md)
+  - [Find Words That Can Be Formed by Characters](problems/easy/find-words-that-can-be-formed-by-characters/README.md)
   - [Happy Number](problems/easy/happy-number/README.md)
   - [Intersection of Two Arrays](problems/easy/intersection-of-two-arrays/README.md)
   - [Intersection of Two Arrays II](problems/easy/intersection-of-two-arrays-ii/README.md)
@@ -19,6 +20,7 @@
   - [Make Two Arrays Equal by Reversing Sub-arrays](problems/easy/make-two-arrays-equal-by-reversing-sub-arrays/README.md)
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
   - [Minimum Value to Get Positive Step by Step Sum](problems/easy/minimum-value-to-get-positive-step-by-step-sum/README.md)
+  - [Monotonic Array](problems/easy/monotonic-array/README.md)
   - [Reformat Date](problems/easy/reformat-date/README.md)
   - [Relative Sort Array](problems/easy/relative-sort-array/README.md)
   - [Remove Duplicates from Sorted Array](problems/easy/remove-duplicates-from-sorted-array/README.md)

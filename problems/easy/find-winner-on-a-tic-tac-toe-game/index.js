@@ -21,10 +21,7 @@ var tictactoe = function(moves) {
         const target = 3;
         for (let i = 0; i <= target - 1; i++) {
             // Create row
-            const row = [];
-            for (let l = 0; l < target - 1; l++) {
-                row.push(false);
-            }
+            const row = Array(target).fill(false);
             grid.push(row);
         }
         for (let i = 0; i < arr.length; i++) {

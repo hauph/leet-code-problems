@@ -17,10 +17,7 @@ function tictactoeTS(moves: number[][]): string {
         const target: number = 3;
         for (let i: number = 0; i <= target - 1; i++) {
             // Create row
-            const row: boolean[] = [];
-            for (let l = 0; l < target - 1; l++) {
-                row.push(false);
-            }
+            const row: boolean[] = Array(target).fill(false);
             grid.push(row);
         }
         for (let i: number = 0; i < arr.length; i++) {
