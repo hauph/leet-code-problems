@@ -10,7 +10,7 @@ var countCharacters = function(words, chars) {
         const wordArr = word.split('');
         let str = '';
         let cloneChars = chars;
-        for (j  = 0; j < wordArr.length; j++) {
+        for (let j = 0; j < wordArr.length; j++) {
             const char = wordArr[j];
             if (cloneChars.length && cloneChars.indexOf(char) > -1) {
                 str += char;
