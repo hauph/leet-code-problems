@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+- Solution:
+  - [Javascript](index.js)
+  <!-- - [Typescript](index.ts) -->
