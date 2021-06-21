@@ -9,7 +9,7 @@ var numIdenticalPairs = function(nums) {
             const currentNum = nums[index];
             for (const i in nums) {
                 const num = nums[i]; {
-                    if (index !== i && currentNum === num && index < i) {
+                    if (currentNum === num && index < i) {
                         counter += 1;
                     }
                 }
