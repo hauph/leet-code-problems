@@ -1,4 +1,4 @@
-## Easy: 42 problems
+## Easy: 45 problems
   - [Base 7](problems/easy/base-7/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
@@ -8,6 +8,7 @@
   - [Day of the Week](problems/easy/day-of-the-week/README.md)
   - [Find All Numbers Disappeared in an Array](problems/easy/find-all-numbers-disappeared-in-an-array/README.md)
   - [Find Mode in Binary Search Tree](problems/easy/find-mode-in-binary-search-tree/README.md)
+  - [Find Pivot Index](problems/easy/find-pivot-index/README.md)
   - [Find the Highest Altitude](problems/easy/find-the-highest-altitude/README.md)
   - [Find Winner on a Tic Tac Toe Game](problems/easy/find-winner-on-a-tic-tac-toe-game/README.md)
   - [Find Words That Can Be Formed by Characters](problems/easy/find-words-that-can-be-formed-by-characters/README.md)
@@ -19,6 +20,7 @@
   - [Latest Time by Replacing Hidden Digits](problems/easy/latest-time-by-replacing-hidden-digits/README.md)
   - [Length of Last Word](problems/easy/length-of-last-word/README.md)
   - [Linked List Cycle](problems/easy/linked-list-cycle/README.md)
+  - [Majority Element](problems/easy/majority-element/README.md)
   - [Make Two Arrays Equal by Reversing Sub-arrays](problems/easy/make-two-arrays-equal-by-reversing-sub-arrays/README.md)
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
   - [Minimum Value to Get Positive Step by Step Sum](problems/easy/minimum-value-to-get-positive-step-by-step-sum/README.md)
@@ -31,6 +33,7 @@
   - [Remove Duplicates from Sorted Array](problems/easy/remove-duplicates-from-sorted-array/README.md)
   - [Remove Duplicates from Sorted List](problems/easy/remove-duplicates-from-sorted-list/README.md)
   - [Remove Element](problems/easy/remove-element/README.md)
+  - [Reshape the Matrix](problems/easy/reshape-the-matrix/README.md)
   - [Robot Return to Origin](problems/easy/robot-return-to-origin/README.md)
   - [Search in a Binary Search Tree](problems/easy/search-in-a-binary-search-tree/README.md)
   - [Search Insert Position](problems/easy/search-insert-position/README.md)
