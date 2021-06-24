@@ -1,4 +1,4 @@
 - Link: https://leetcode.com/problems/majority-element/
 - Solution:
   - [Javascript](index.js)
-  <!-- - [Typescript](index.ts) -->
+  - [Typescript](index.ts)
