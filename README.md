@@ -1,11 +1,12 @@
-## Easy: 45 problems
+## Easy: 47 problems
   - [Base 7](problems/easy/base-7/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
   - [Count Negative Numbers in a Sorted Matrix](problems/easy/count-negative-numbers-in-a-sorted-matrix/README.md)
   - [Create Target Array in the Given Order](problems/easy/create-target-array-in-the-given-order/README.md)
-  - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
   - [Day of the Week](problems/easy/day-of-the-week/README.md)
+  - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
+  - [Distance Between Bus Stops](problems/easy/distance-between-bus-stops/README.md)
   - [Find All Numbers Disappeared in an Array](problems/easy/find-all-numbers-disappeared-in-an-array/README.md)
   - [Find Mode in Binary Search Tree](problems/easy/find-mode-in-binary-search-tree/README.md)
   - [Find Pivot Index](problems/easy/find-pivot-index/README.md)
@@ -33,6 +34,7 @@
   - [Remove Duplicates from Sorted Array](problems/easy/remove-duplicates-from-sorted-array/README.md)
   - [Remove Duplicates from Sorted List](problems/easy/remove-duplicates-from-sorted-list/README.md)
   - [Remove Element](problems/easy/remove-element/README.md)
+  - [Replace Elements with Greatest Element on Right Side](problems/easy/replace-elements-with-greatest-element-on-right-side/README.md)
   - [Reshape the Matrix](problems/easy/reshape-the-matrix/README.md)
   - [Robot Return to Origin](problems/easy/robot-return-to-origin/README.md)
   - [Search in a Binary Search Tree](problems/easy/search-in-a-binary-search-tree/README.md)
