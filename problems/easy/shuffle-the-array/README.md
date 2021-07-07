@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/shuffle-the-array/
+- Solution:
+  - [Javascript](index.js)
+  <!-- - [Typescript](index.ts) -->

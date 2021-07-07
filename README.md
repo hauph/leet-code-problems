@@ -1,8 +1,9 @@
-## Easy: 47 problems
+## Easy: 50 problems
   - [Base 7](problems/easy/base-7/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
   - [Count Negative Numbers in a Sorted Matrix](problems/easy/count-negative-numbers-in-a-sorted-matrix/README.md)
+  - [Crawler Log Folder](problems/easy/crawler-log-folder/README.md)
   - [Create Target Array in the Given Order](problems/easy/create-target-array-in-the-given-order/README.md)
   - [Day of the Week](problems/easy/day-of-the-week/README.md)
   - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
@@ -40,6 +41,8 @@
   - [Search in a Binary Search Tree](problems/easy/search-in-a-binary-search-tree/README.md)
   - [Search Insert Position](problems/easy/search-insert-position/README.md)
   - [Self Dividing Numbers](problems/easy/self-dividing-numbers/README.md)
+  - [Shuffle String](problems/easy/shuffle-string/README.md)
+  - [Shuffle the Array](problems/easy/shuffle-the-array/README.md)
   - [Sum of All Odd Length Subarrays](problems/easy/sum-of-all-odd-length-subarrays/README.md)
   - [Sum of Even Numbers After Queries](problems/easy/sum-of-even-numbers-after-queries/README.md)
   - [Third Maximum Number](problems/easy/third-maximum-number/README.md)
