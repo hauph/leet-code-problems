@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/backspace-string-compare/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

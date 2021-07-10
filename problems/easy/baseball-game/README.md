@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/baseball-game/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)
