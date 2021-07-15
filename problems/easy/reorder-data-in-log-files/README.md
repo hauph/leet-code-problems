@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/reorder-data-in-log-files/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

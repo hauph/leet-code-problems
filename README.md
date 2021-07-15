@@ -1,4 +1,4 @@
-## Easy: 52 problems
+## Easy: 54 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   -  [Baseball Game](problems/easy/baseball-game/README.md)
@@ -37,6 +37,7 @@
   - [Remove Duplicates from Sorted Array](problems/easy/remove-duplicates-from-sorted-array/README.md)
   - [Remove Duplicates from Sorted List](problems/easy/remove-duplicates-from-sorted-list/README.md)
   - [Remove Element](problems/easy/remove-element/README.md)
+  - [Reorder Data in Log Files](problems/easy/reorder-data-in-log-files/README.md)
   - [Replace Elements with Greatest Element on Right Side](problems/easy/replace-elements-with-greatest-element-on-right-side/README.md)
   - [Reshape the Matrix](problems/easy/reshape-the-matrix/README.md)
   - [Robot Return to Origin](problems/easy/robot-return-to-origin/README.md)
@@ -51,3 +52,4 @@
   - [Transpose Matrix](problems/easy/transpose-matrix/README.md)
   - [Two Sum](problems/easy/two-sum/README.md)
   - [Unique Number of Occurrences](problems/easy/unique-number-of-occurrences/README.md)
+  - [X of a Kind in a Deck of Cards](problems/easy/x-of-a-kind-in-a-deck-of-cards/README.md)
