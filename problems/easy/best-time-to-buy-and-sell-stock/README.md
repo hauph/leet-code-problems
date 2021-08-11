@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- Solution:
+  - [Javascript](index.js)
+  <!-- - [Typescript](index.ts) -->

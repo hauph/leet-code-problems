@@ -1,7 +1,8 @@
-## Easy: 54 problems
+## Easy: 57 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
-  -  [Baseball Game](problems/easy/baseball-game/README.md)
+  - [Baseball Game](problems/easy/baseball-game/README.md)
+  - [Best Time to Buy and Sell Stock](problems/easy/best-time-to-buy-and-sell-stock/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
   - [Count Negative Numbers in a Sorted Matrix](problems/easy/count-negative-numbers-in-a-sorted-matrix/README.md)
@@ -10,6 +11,7 @@
   - [Day of the Week](problems/easy/day-of-the-week/README.md)
   - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
   - [Distance Between Bus Stops](problems/easy/distance-between-bus-stops/README.md)
+  - [Fibonacci Number](problems/easy/fibonacci-number/README.md)
   - [Find All Numbers Disappeared in an Array](problems/easy/find-all-numbers-disappeared-in-an-array/README.md)
   - [Find Mode in Binary Search Tree](problems/easy/find-mode-in-binary-search-tree/README.md)
   - [Find Pivot Index](problems/easy/find-pivot-index/README.md)
@@ -29,6 +31,7 @@
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
   - [Minimum Value to Get Positive Step by Step Sum](problems/easy/minimum-value-to-get-positive-step-by-step-sum/README.md)
   - [Monotonic Array](problems/easy/monotonic-array/README.md)
+  - [N-th Tribonacci Number](problems/easy/n-th-tribonacci-number/README.md)
   - [Number of Good Pairs](problems/easy/number-of-good-pairs/README.md)
   - [Number of Students Doing Homework at a Given Time](problems/easy/number-of-students-doing-homework-at-a-given-time/README.md)
   - [Rank Transform of an Array](problems/easy/rank-transform-of-an-array/README.md)
