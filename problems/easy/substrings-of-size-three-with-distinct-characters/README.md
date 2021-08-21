@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

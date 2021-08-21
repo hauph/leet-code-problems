@@ -1,4 +1,4 @@
-## Easy: 57 problems
+## Easy: 59 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
@@ -10,6 +10,7 @@
   - [Create Target Array in the Given Order](problems/easy/create-target-array-in-the-given-order/README.md)
   - [Day of the Week](problems/easy/day-of-the-week/README.md)
   - [Decompress Run-Length Encoded List](problems/easy/decompress-run-length-encoded-list/README.md)
+  - [Degree of an Array](problems/easy/degree-of-an-array/README.md)
   - [Distance Between Bus Stops](problems/easy/distance-between-bus-stops/README.md)
   - [Fibonacci Number](problems/easy/fibonacci-number/README.md)
   - [Find All Numbers Disappeared in an Array](problems/easy/find-all-numbers-disappeared-in-an-array/README.md)
@@ -29,6 +30,7 @@
   - [Majority Element](problems/easy/majority-element/README.md)
   - [Make Two Arrays Equal by Reversing Sub-arrays](problems/easy/make-two-arrays-equal-by-reversing-sub-arrays/README.md)
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
+  - [Maximum Subarray](problems/easy/maximum-subarray/README.MD)
   - [Minimum Value to Get Positive Step by Step Sum](problems/easy/minimum-value-to-get-positive-step-by-step-sum/README.md)
   - [Monotonic Array](problems/easy/monotonic-array/README.md)
   - [N-th Tribonacci Number](problems/easy/n-th-tribonacci-number/README.md)
@@ -49,10 +51,13 @@
   - [Self Dividing Numbers](problems/easy/self-dividing-numbers/README.md)
   - [Shuffle String](problems/easy/shuffle-string/README.md)
   - [Shuffle the Array](problems/easy/shuffle-the-array/README.md)
+  - [Substrings of Size Three with Distinct Characters](problems/easy/substrings-of-size-three-with-distinct-characters/README.md)
   - [Sum of All Odd Length Subarrays](problems/easy/sum-of-all-odd-length-subarrays/README.md)
-  - [Sum of Even Numbers After Queries](problems/easy/sum-of-even-numbers-after-queries/README.md)
   - [Third Maximum Number](problems/easy/third-maximum-number/README.md)
   - [Transpose Matrix](problems/easy/transpose-matrix/README.md)
   - [Two Sum](problems/easy/two-sum/README.md)
   - [Unique Number of Occurrences](problems/easy/unique-number-of-occurrences/README.md)
   - [X of a Kind in a Deck of Cards](problems/easy/x-of-a-kind-in-a-deck-of-cards/README.md)
+
+## Medium: 1 problem
+  - [Sum of Even Numbers After Queries](problems/medium/sum-of-even-numbers-after-queries/README.md)
