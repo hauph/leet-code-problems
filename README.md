@@ -1,4 +1,4 @@
-## Easy: 59 problems
+## Easy: 61 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
@@ -27,8 +27,10 @@
   - [Latest Time by Replacing Hidden Digits](problems/easy/latest-time-by-replacing-hidden-digits/README.md)
   - [Length of Last Word](problems/easy/length-of-last-word/README.md)
   - [Linked List Cycle](problems/easy/linked-list-cycle/README.md)
+  - [Longer Contiguous Segments of Ones than Zeros](problems/easy/longer-contiguous-segments-of-ones-than-zeros/README.md)
   - [Majority Element](problems/easy/majority-element/README.md)
   - [Make Two Arrays Equal by Reversing Sub-arrays](problems/easy/make-two-arrays-equal-by-reversing-sub-arrays/README.md)
+  - [Max Consecutive Ones](problems/easy/max-consecutive-ones/README.md)
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
   - [Maximum Subarray](problems/easy/maximum-subarray/README.MD)
   - [Minimum Value to Get Positive Step by Step Sum](problems/easy/minimum-value-to-get-positive-step-by-step-sum/README.md)

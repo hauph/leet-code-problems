@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/max-consecutive-ones/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)
