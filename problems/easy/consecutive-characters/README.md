@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/consecutive-characters/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

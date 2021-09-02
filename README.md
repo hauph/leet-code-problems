@@ -1,9 +1,12 @@
-## Easy: 61 problems
+## Easy: 65 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
   - [Best Time to Buy and Sell Stock](problems/easy/best-time-to-buy-and-sell-stock/README.md)
+  - [Check if Binary String Has at Most One Segment of Ones](problems/easy/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
+  - [Check If String Is a Prefix of Array](problems/easy/check-if-string-is-a-prefix-of-array/README.md)
+  - [Consecutive Characters](problems/easy/consecutive-characters/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
   - [Count Negative Numbers in a Sorted Matrix](problems/easy/count-negative-numbers-in-a-sorted-matrix/README.md)
   - [Crawler Log Folder](problems/easy/crawler-log-folder/README.md)
@@ -47,6 +50,7 @@
   - [Reorder Data in Log Files](problems/easy/reorder-data-in-log-files/README.md)
   - [Replace Elements with Greatest Element on Right Side](problems/easy/replace-elements-with-greatest-element-on-right-side/README.md)
   - [Reshape the Matrix](problems/easy/reshape-the-matrix/README.md)
+  - [Reverse String](problems/easy/reverse-string/README.md)
   - [Robot Return to Origin](problems/easy/robot-return-to-origin/README.md)
   - [Search in a Binary Search Tree](problems/easy/search-in-a-binary-search-tree/README.md)
   - [Search Insert Position](problems/easy/search-insert-position/README.md)
