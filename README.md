@@ -1,4 +1,4 @@
-## Easy: 65 problems
+## Easy: 67 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
@@ -51,6 +51,8 @@
   - [Replace Elements with Greatest Element on Right Side](problems/easy/replace-elements-with-greatest-element-on-right-side/README.md)
   - [Reshape the Matrix](problems/easy/reshape-the-matrix/README.md)
   - [Reverse String](problems/easy/reverse-string/README.md)
+  - [Reverse String II](problems/easy/reverse-string-ii/README.md)
+  - [Reverse Vowels of a String](problems/easy/reverse-vowels-of-a-string/README.md)
   - [Robot Return to Origin](problems/easy/robot-return-to-origin/README.md)
   - [Search in a Binary Search Tree](problems/easy/search-in-a-binary-search-tree/README.md)
   - [Search Insert Position](problems/easy/search-insert-position/README.md)
