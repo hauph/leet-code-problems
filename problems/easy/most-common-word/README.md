@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/most-common-word/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)
