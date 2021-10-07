@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/count-the-number-of-consistent-strings/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

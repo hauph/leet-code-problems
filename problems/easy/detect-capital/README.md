@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/detect-capital/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)
