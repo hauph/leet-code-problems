@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/three-divisors/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

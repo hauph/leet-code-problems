@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/defanging-an-ip-address/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

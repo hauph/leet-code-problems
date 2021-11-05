@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/count-of-matches-in-tournament/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

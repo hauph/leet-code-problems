@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/greatest-common-divisor-of-strings/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

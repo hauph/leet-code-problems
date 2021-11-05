@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/longest-common-prefix/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

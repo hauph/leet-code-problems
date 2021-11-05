@@ -1,0 +1,18 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findGCD = function (nums) {
+  const sortedArr = nums.sort((a, b) => a - b);
+  const max = sortedArr[sortedArr.length - 1];
+
+  let res = 1;
+  for (let i = max; i > 0; i--) {
+    if (sortedArr[0] % i === 0 && max % i === 0) {
+      res = i;
+      break;
+    }
+  }
+
+  return res;
+};
