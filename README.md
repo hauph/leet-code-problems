@@ -1,8 +1,9 @@
-## Easy: 80 problems
+## Easy: 82 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
   - [Best Time to Buy and Sell Stock](problems/easy/best-time-to-buy-and-sell-stock/README.md)
+  - [Calculate Money in Leetcode Bank](problems/easy/calculate-money-in-leetcode-bank/README.md)
   - [Check if Binary String Has at Most One Segment of Ones](problems/easy/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
   - [Check If String Is a Prefix of Array](problems/easy/check-if-string-is-a-prefix-of-array/README.md)
@@ -79,6 +80,7 @@
   - [Unique Number of Occurrences](problems/easy/unique-number-of-occurrences/README.md)
   - [Valid Anagram](problems/easy/valid-anagram/README.md)
   - [X of a Kind in a Deck of Cards](problems/easy/x-of-a-kind-in-a-deck-of-cards/README.md)
+  - [XOR Operation in an Array](problems/easy/xor-operation-in-an-array/README.md)
 
 ## Medium: 1 problem
   - [Sum of Even Numbers After Queries](problems/medium/sum-of-even-numbers-after-queries/README.md)

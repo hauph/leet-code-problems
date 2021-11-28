@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/xor-operation-in-an-array/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)
