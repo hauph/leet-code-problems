@@ -1,4 +1,4 @@
-## Easy: 82 problems
+## Easy: 84 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
@@ -20,6 +20,7 @@
   - [Defanging an IP Address](problems/easy/defanging-an-ip-address/README.md)
   - [Degree of an Array](problems/easy/degree-of-an-array/README.md)
   - [Detect Capital](problems/easy/detect-capital/README.md)
+  - [Determine if String Halves Are Alike](problems/easy/determine-if-string-halves-are-alike/README.md)
   - [Distance Between Bus Stops](problems/easy/distance-between-bus-stops/README.md)
   - [Fibonacci Number](problems/easy/fibonacci-number/README.md)
   - [Find All Numbers Disappeared in an Array](problems/easy/find-all-numbers-disappeared-in-an-array/README.md)
@@ -72,6 +73,7 @@
   - [Shuffle String](problems/easy/shuffle-string/README.md)
   - [Shuffle the Array](problems/easy/shuffle-the-array/README.md)
   - [Substrings of Size Three with Distinct Characters](problems/easy/substrings-of-size-three-with-distinct-characters/README.md)
+  - [Subtract the Product and Sum of Digits of an Integer](problems/easy/subtract-the-product-and-sum-of-digits-of-an-integer/README.md)
   - [Sum of All Odd Length Subarrays](problems/easy/sum-of-all-odd-length-subarrays/README.md)
   - [Third Maximum Number](problems/easy/third-maximum-number/README.md)
   - [Three Divisors](problems/easy/three-divisors/README.md)
