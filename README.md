@@ -1,4 +1,4 @@
-## Easy: 84 problems
+## Easy: 86 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
@@ -30,6 +30,7 @@
   - [Find the Highest Altitude](problems/easy/find-the-highest-altitude/README.md)
   - [Find Winner on a Tic Tac Toe Game](problems/easy/find-winner-on-a-tic-tac-toe-game/README.md)
   - [Find Words That Can Be Formed by Characters](problems/easy/find-words-that-can-be-formed-by-characters/README.md)
+  - [Fizz Buzz](problems/easy/fizz-buzz/README.md)
   - [Greatest Common Divisor of Strings](problems/easy/greatest-common-divisor-of-strings/README.md)
   - [Happy Number](problems/easy/happy-number/README.md)
   - [Height Checker](problems/easy/height-checker/REAMD.md)
@@ -46,6 +47,7 @@
   - [Max Consecutive Ones](problems/easy/max-consecutive-ones/README.md)
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
   - [Maximum Subarray](problems/easy/maximum-subarray/README.MD)
+  - [Minimum Cost to Move Chips to The Same Position](problems/easy/minimum-cost-to-move-chips-to-the-same-position/README.md)
   - [Minimum Value to Get Positive Step by Step Sum](problems/easy/minimum-value-to-get-positive-step-by-step-sum/README.md)
   - [Monotonic Array](problems/easy/monotonic-array/README.md)
   - [Most Common Word](problems/easy/most-common-word/README.md)
