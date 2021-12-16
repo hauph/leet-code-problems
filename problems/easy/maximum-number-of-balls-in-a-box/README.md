@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

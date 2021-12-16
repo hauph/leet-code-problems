@@ -1,4 +1,4 @@
-## Easy: 86 problems
+## Easy: 88 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
@@ -7,6 +7,7 @@
   - [Check if Binary String Has at Most One Segment of Ones](problems/easy/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
   - [Check If String Is a Prefix of Array](problems/easy/check-if-string-is-a-prefix-of-array/README.md)
+  - [Check if the Sentence Is Pangram](problems/easy/check-if-the-sentence-is-pangram/README.md)
   - [Consecutive Characters](problems/easy/consecutive-characters/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
   - [Count Items Matching a Rule](problems/easy/count-items-matching-a-rule/README.md)
@@ -45,6 +46,7 @@
   - [Majority Element](problems/easy/majority-element/README.md)
   - [Make Two Arrays Equal by Reversing Sub-arrays](problems/easy/make-two-arrays-equal-by-reversing-sub-arrays/README.md)
   - [Max Consecutive Ones](problems/easy/max-consecutive-ones/README.md)
+  - [Maximum Number of Balls in a Box](problems/easy/maximum-number-of-balls-in-a-box/README.md)
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
   - [Maximum Subarray](problems/easy/maximum-subarray/README.MD)
   - [Minimum Cost to Move Chips to The Same Position](problems/easy/minimum-cost-to-move-chips-to-the-same-position/README.md)
