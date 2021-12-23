@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/slowest-key/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

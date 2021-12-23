@@ -1,4 +1,4 @@
-## Easy: 88 problems
+## Easy: 90 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
@@ -10,6 +10,7 @@
   - [Check if the Sentence Is Pangram](problems/easy/check-if-the-sentence-is-pangram/README.md)
   - [Consecutive Characters](problems/easy/consecutive-characters/README.md)
   - [Contains Duplicate](problems/easy/contains-duplicate/README.md)
+  - [Convert Binary Number in a Linked List to Integer](problems/easy/convert-binary-number-in-a-linked-list-to-integer/README.md)
   - [Count Items Matching a Rule](problems/easy/count-items-matching-a-rule/README.md)
   - [Count Negative Numbers in a Sorted Matrix](problems/easy/count-negative-numbers-in-a-sorted-matrix/README.md)
   - [Count of Matches in Tournament](problems/easy/count-of-matches-in-tournament/README.md)
@@ -76,6 +77,7 @@
   - [Self Dividing Numbers](problems/easy/self-dividing-numbers/README.md)
   - [Shuffle String](problems/easy/shuffle-string/README.md)
   - [Shuffle the Array](problems/easy/shuffle-the-array/README.md)
+  - [Slowest Key](problems/easy/slowest-key/README.md)
   - [Substrings of Size Three with Distinct Characters](problems/easy/substrings-of-size-three-with-distinct-characters/README.md)
   - [Subtract the Product and Sum of Digits of an Integer](problems/easy/subtract-the-product-and-sum-of-digits-of-an-integer/README.md)
   - [Sum of All Odd Length Subarrays](problems/easy/sum-of-all-odd-length-subarrays/README.md)
