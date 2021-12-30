@@ -1,4 +1,4 @@
-## Easy: 90 problems
+## Easy: 92 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
@@ -39,6 +39,7 @@
   - [How Many Numbers Are Smaller Than the Current Number](problems/easy/how-many-numbers-are-smaller-than-the-current-number/README.md)
   - [Intersection of Two Arrays](problems/easy/intersection-of-two-arrays/README.md)
   - [Intersection of Two Arrays II](problems/easy/intersection-of-two-arrays-ii/README.md)
+  - [Largest Odd Number in String](problems/easy/largest-odd-number-in-string/README.md)
   - [Latest Time by Replacing Hidden Digits](problems/easy/latest-time-by-replacing-hidden-digits/README.md)
   - [Length of Last Word](problems/easy/length-of-last-word/README.md)
   - [Linked List Cycle](problems/easy/linked-list-cycle/README.md)
@@ -74,6 +75,7 @@
   - [Robot Return to Origin](problems/easy/robot-return-to-origin/README.md)
   - [Search in a Binary Search Tree](problems/easy/search-in-a-binary-search-tree/README.md)
   - [Search Insert Position](problems/easy/search-insert-position/README.md)
+  - [Second Largest Digit in a String](problems/easy/second-largest-digit-in-a-string/README.md)
   - [Self Dividing Numbers](problems/easy/self-dividing-numbers/README.md)
   - [Shuffle String](problems/easy/shuffle-string/README.md)
   - [Shuffle the Array](problems/easy/shuffle-the-array/README.md)
