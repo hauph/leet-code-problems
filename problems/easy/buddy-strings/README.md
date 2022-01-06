@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/buddy-strings/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

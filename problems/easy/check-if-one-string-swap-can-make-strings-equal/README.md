@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

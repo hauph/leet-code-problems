@@ -1,11 +1,13 @@
-## Easy: 92 problems
+## Easy: 94 problems
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
   - [Best Time to Buy and Sell Stock](problems/easy/best-time-to-buy-and-sell-stock/README.md)
+  - [Buddy Strings](problems/easy/buddy-strings/README.md)
   - [Calculate Money in Leetcode Bank](problems/easy/calculate-money-in-leetcode-bank/README.md)
   - [Check if Binary String Has at Most One Segment of Ones](problems/easy/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
+  - [Check if One String Swap Can Make Strings Equal](problems/easy/check-if-one-string-swap-can-make-strings-equal/README.md)
   - [Check If String Is a Prefix of Array](problems/easy/check-if-string-is-a-prefix-of-array/README.md)
   - [Check if the Sentence Is Pangram](problems/easy/check-if-the-sentence-is-pangram/README.md)
   - [Consecutive Characters](problems/easy/consecutive-characters/README.md)
