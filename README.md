@@ -1,4 +1,5 @@
-## Easy: 94 problems
+## Easy: 96 problems
+  - [Array Partition I](problems/easy/array-partition-i/README.md)
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
   - [Baseball Game](problems/easy/baseball-game/README.md)
@@ -54,6 +55,7 @@
   - [Maximum Product of Two Elements in an Array](problems/easy/maximum-product-of-two-elements-in-an-array/README.md)
   - [Maximum Subarray](problems/easy/maximum-subarray/README.MD)
   - [Minimum Cost to Move Chips to The Same Position](problems/easy/minimum-cost-to-move-chips-to-the-same-position/README.md)
+  - [Minimum Difference Between Highest and Lowest of K Scores](problems/easy/minimum-difference-between-highest-and-lowest-of-k-scores/README.md)
   - [Minimum Value to Get Positive Step by Step Sum](problems/easy/minimum-value-to-get-positive-step-by-step-sum/README.md)
   - [Monotonic Array](problems/easy/monotonic-array/README.md)
   - [Most Common Word](problems/easy/most-common-word/README.md)

@@ -1,0 +1,3 @@
+- Link: https://leetcode.com/problems/array-partition-i/
+- Solution:
+  - [Typescript](index.ts)
