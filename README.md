@@ -1,4 +1,4 @@
-## Easy: 96 problems
+## Easy: 98 problems
   - [Array Partition I](problems/easy/array-partition-i/README.md)
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
@@ -81,6 +81,7 @@
   - [Search Insert Position](problems/easy/search-insert-position/README.md)
   - [Second Largest Digit in a String](problems/easy/second-largest-digit-in-a-string/README.md)
   - [Self Dividing Numbers](problems/easy/self-dividing-numbers/README.md)
+  - [Shortest Distance to a Character](problems/easy/shortest-distance-to-a-character/README.md)
   - [Shuffle String](problems/easy/shuffle-string/README.md)
   - [Shuffle the Array](problems/easy/shuffle-the-array/README.md)
   - [Slowest Key](problems/easy/slowest-key/README.md)
@@ -89,6 +90,7 @@
   - [Sum of All Odd Length Subarrays](problems/easy/sum-of-all-odd-length-subarrays/README.md)
   - [Third Maximum Number](problems/easy/third-maximum-number/README.md)
   - [Three Divisors](problems/easy/three-divisors/README.md)
+  - [Toeplitz Matrix](problems/easy/toeplitz-matrix/README.md)
   - [Transpose Matrix](problems/easy/transpose-matrix/README.md)
   - [Two Sum](problems/easy/two-sum/README.md)
   - [Unique Number of Occurrences](problems/easy/unique-number-of-occurrences/README.md)

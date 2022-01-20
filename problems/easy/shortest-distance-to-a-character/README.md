@@ -1,0 +1,3 @@
+- Link: https://leetcode.com/problems/shortest-distance-to-a-character/
+- Solution:
+  - [Javascript](index.js)
