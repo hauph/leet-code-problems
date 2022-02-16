@@ -1,4 +1,4 @@
-## Easy: 98 problems
+## Easy: 99 problems
   - [Array Partition I](problems/easy/array-partition-i/README.md)
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
@@ -31,6 +31,7 @@
   - [Find All Numbers Disappeared in an Array](problems/easy/find-all-numbers-disappeared-in-an-array/README.md)
   - [Find Greatest Common Divisor of Array](problems/easy/find-greatest-common-divisor-of-array/README.md)
   - [Find Mode in Binary Search Tree](problems/easy/find-mode-in-binary-search-tree/README.md)
+  - [Find Nearest Point That Has the Same X or Y Coordinate](problems/easy/find-nearest-point-that-has-the-same-x-or-y-coordinate/README.md)
   - [Find Pivot Index](problems/easy/find-pivot-index/README.md)
   - [Find the Highest Altitude](problems/easy/find-the-highest-altitude/README.md)
   - [Find Winner on a Tic Tac Toe Game](problems/easy/find-winner-on-a-tic-tac-toe-game/README.md)
@@ -98,5 +99,6 @@
   - [X of a Kind in a Deck of Cards](problems/easy/x-of-a-kind-in-a-deck-of-cards/README.md)
   - [XOR Operation in an Array](problems/easy/xor-operation-in-an-array/README.md)
 
-## Medium: 1 problem
+## Medium: 2 problem
+  - [Find All Anagrams in a String](problems/medium/find-all-anagrams-in-a-string/README.md)
   - [Sum of Even Numbers After Queries](problems/medium/sum-of-even-numbers-after-queries/README.md)
