@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/goal-parser-interpretation/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)
