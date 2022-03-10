@@ -1,0 +1,3 @@
+- Link: https://leetcode.com/problems/replace-all-digits-with-characters/
+- Solution:
+  - [Javascript](index.js)

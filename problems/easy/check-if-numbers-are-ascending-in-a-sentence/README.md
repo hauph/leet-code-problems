@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)

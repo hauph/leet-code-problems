@@ -1,4 +1,4 @@
-## Easy: 101 problems
+## Easy: 104 problems
   - [Array Partition I](problems/easy/array-partition-i/README.md)
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
@@ -8,6 +8,7 @@
   - [Calculate Money in Leetcode Bank](problems/easy/calculate-money-in-leetcode-bank/README.md)
   - [Check if Binary String Has at Most One Segment of Ones](problems/easy/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
+  - [Check if Numbers Are Ascending in a Sentence](problems/easy/check-if-numbers-are-ascending-in-a-sentence/README.md)
   - [Check if One String Swap Can Make Strings Equal](problems/easy/check-if-one-string-swap-can-make-strings-equal/README.md)
   - [Check If String Is a Prefix of Array](problems/easy/check-if-string-is-a-prefix-of-array/README.md)
   - [Check if the Sentence Is Pangram](problems/easy/check-if-the-sentence-is-pangram/README.md)
@@ -73,6 +74,7 @@
   - [Remove Duplicates from Sorted List](problems/easy/remove-duplicates-from-sorted-list/README.md)
   - [Remove Element](problems/easy/remove-element/README.md)
   - [Reorder Data in Log Files](problems/easy/reorder-data-in-log-files/README.md)
+  - [Replace All Digits with Characters](problems/easy/replace-all-digits-with-characters/README.md)
   - [Replace Elements with Greatest Element on Right Side](problems/easy/replace-elements-with-greatest-element-on-right-side/README.md)
   - [Reshape the Matrix](problems/easy/reshape-the-matrix/README.md)
   - [Reverse String](problems/easy/reverse-string/README.md)
@@ -88,6 +90,7 @@
   - [Shuffle String](problems/easy/shuffle-string/README.md)
   - [Shuffle the Array](problems/easy/shuffle-the-array/README.md)
   - [Slowest Key](problems/easy/slowest-key/README.md)
+  - [Sorting the Sentence](problems/easy/sorting-the-sentence/README.md)
   - [Substrings of Size Three with Distinct Characters](problems/easy/substrings-of-size-three-with-distinct-characters/README.md)
   - [Subtract the Product and Sum of Digits of an Integer](problems/easy/subtract-the-product-and-sum-of-digits-of-an-integer/README.md)
   - [Sum of All Odd Length Subarrays](problems/easy/sum-of-all-odd-length-subarrays/README.md)
@@ -101,6 +104,7 @@
   - [X of a Kind in a Deck of Cards](problems/easy/x-of-a-kind-in-a-deck-of-cards/README.md)
   - [XOR Operation in an Array](problems/easy/xor-operation-in-an-array/README.md)
 
-## Medium: 2 problem
+## Medium: 3 problem
   - [Find All Anagrams in a String](problems/medium/find-all-anagrams-in-a-string/README.md)
+  - [Shifting Letters](problems/medium/shifting-letters/README.md)
   - [Sum of Even Numbers After Queries](problems/medium/sum-of-even-numbers-after-queries/README.md)
