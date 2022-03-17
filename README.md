@@ -1,4 +1,4 @@
-## Easy: 104 problems
+## Easy: 106 problems
   - [Array Partition I](problems/easy/array-partition-i/README.md)
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
@@ -6,6 +6,8 @@
   - [Best Time to Buy and Sell Stock](problems/easy/best-time-to-buy-and-sell-stock/README.md)
   - [Buddy Strings](problems/easy/buddy-strings/README.md)
   - [Calculate Money in Leetcode Bank](problems/easy/calculate-money-in-leetcode-bank/README.md)
+  - [Check if All A's Appears Before All B's](problems/easy/check-if-all-as-appears-before-all-bs/README.md)
+  - [Check if Array Is Sorted and Rotated](problems/easy/check-if-array-is-sorted-and-rotated/README.md)
   - [Check if Binary String Has at Most One Segment of Ones](problems/easy/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
   - [Check If N and Its Double Exist](problems/easy/check-if-n-and-its-double-exist/README.md)
   - [Check if Numbers Are Ascending in a Sentence](problems/easy/check-if-numbers-are-ascending-in-a-sentence/README.md)

@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
+- Solution:
+  - [Typescript](index.ts)
+  - [Python](index.py)
