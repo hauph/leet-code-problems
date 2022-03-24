@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/first-bad-version/
+- Solution:
+  - [Python](index.py)
+  - [Javascript](index.js)

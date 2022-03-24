@@ -1,4 +1,4 @@
-## Easy: 106 problems
+## Easy: 108 problems
   - [Array Partition I](problems/easy/array-partition-i/README.md)
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
@@ -39,9 +39,11 @@
   - [Find the Highest Altitude](problems/easy/find-the-highest-altitude/README.md)
   - [Find Winner on a Tic Tac Toe Game](problems/easy/find-winner-on-a-tic-tac-toe-game/README.md)
   - [Find Words That Can Be Formed by Characters](problems/easy/find-words-that-can-be-formed-by-characters/README.md)
+  - [First Bad Version](problems/easy/first-bad-version/README.md)
   - [Fizz Buzz](problems/easy/fizz-buzz/README.md)
   - [Goal Parser Interpretation](problems/easy/goal-parser-interpretation/README.md)
   - [Greatest Common Divisor of Strings](problems/easy/greatest-common-divisor-of-strings/README.md)
+  - [Guess Number Higher or Lower](problems/easy/guess-number-higher-or-lower/README.md)
   - [Happy Number](problems/easy/happy-number/README.md)
   - [Height Checker](problems/easy/height-checker/REAMD.md)
   - [How Many Numbers Are Smaller Than the Current Number](problems/easy/how-many-numbers-are-smaller-than-the-current-number/README.md)
