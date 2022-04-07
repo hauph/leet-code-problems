@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/capitalize-the-title/
+- Solution:
+  - [Typescript](index.ts)
+  - [Python](index.py)

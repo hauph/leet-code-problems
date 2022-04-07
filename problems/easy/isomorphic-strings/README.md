@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/isomorphic-strings/
+- Solution:
+  - [Typescript](index.ts)
+  - [Python](index.py)

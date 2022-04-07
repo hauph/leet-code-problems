@@ -1,4 +1,4 @@
-## Easy: 108 problems
+## Easy: 112 problems
   - [Array Partition I](problems/easy/array-partition-i/README.md)
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
@@ -6,6 +6,8 @@
   - [Best Time to Buy and Sell Stock](problems/easy/best-time-to-buy-and-sell-stock/README.md)
   - [Buddy Strings](problems/easy/buddy-strings/README.md)
   - [Calculate Money in Leetcode Bank](problems/easy/calculate-money-in-leetcode-bank/README.md)
+  - [Capitalize the Title](problems/easy/capitalize-the-title/README.md)
+  - [Cells in a Range on an Excel Sheet](problems/easy/cells-in-a-range-on-an-excel-sheet/README.md)
   - [Check if All A's Appears Before All B's](problems/easy/check-if-all-as-appears-before-all-bs/README.md)
   - [Check if Array Is Sorted and Rotated](problems/easy/check-if-array-is-sorted-and-rotated/README.md)
   - [Check if Binary String Has at Most One Segment of Ones](problems/easy/check-if-binary-string-has-at-most-one-segment-of-ones/README.md)
@@ -49,6 +51,7 @@
   - [How Many Numbers Are Smaller Than the Current Number](problems/easy/how-many-numbers-are-smaller-than-the-current-number/README.md)
   - [Intersection of Two Arrays](problems/easy/intersection-of-two-arrays/README.md)
   - [Intersection of Two Arrays II](problems/easy/intersection-of-two-arrays-ii/README.md)
+  - [Isomorphic Strings](problems/easy/isomorphic-strings/README.md)
   - [Largest Odd Number in String](problems/easy/largest-odd-number-in-string/README.md)
   - [Latest Time by Replacing Hidden Digits](problems/easy/latest-time-by-replacing-hidden-digits/README.md)
   - [Length of Last Word](problems/easy/length-of-last-word/README.md)
@@ -100,6 +103,7 @@
   - [Sum of All Odd Length Subarrays](problems/easy/sum-of-all-odd-length-subarrays/README.md)
   - [Third Maximum Number](problems/easy/third-maximum-number/README.md)
   - [Three Divisors](problems/easy/three-divisors/README.md)
+  - [To Lower Case](problems/easy/to-lower-case/README.md)
   - [Toeplitz Matrix](problems/easy/toeplitz-matrix/README.md)
   - [Transpose Matrix](problems/easy/transpose-matrix/README.md)
   - [Two Sum](problems/easy/two-sum/README.md)

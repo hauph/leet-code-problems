@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/to-lower-case/
+- Solution:
+  - [Typescript](index.ts)
+  - [Python](index.py)
