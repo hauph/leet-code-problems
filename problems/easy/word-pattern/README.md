@@ -1,0 +1,5 @@
+- Link: https://leetcode.com/problems/word-pattern/
+- Solution:
+  - [Javascript](index.js)
+  - [Typescript](index.ts)
+  - [Python](index.py)

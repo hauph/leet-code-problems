@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/find-the-difference/
+- Solution:
+  - [Typescript](index.ts)
+  - [Python](index.py)

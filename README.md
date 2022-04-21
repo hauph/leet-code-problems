@@ -1,4 +1,4 @@
-## Easy: 112 problems
+## Easy: 115 problems
   - [Array Partition I](problems/easy/array-partition-i/README.md)
   - [Backspace String Compare](problems/easy/backspace-string-compare/README.md)
   - [Base 7](problems/easy/base-7/README.md)
@@ -38,6 +38,7 @@
   - [Find Mode in Binary Search Tree](problems/easy/find-mode-in-binary-search-tree/README.md)
   - [Find Nearest Point That Has the Same X or Y Coordinate](problems/easy/find-nearest-point-that-has-the-same-x-or-y-coordinate/README.md)
   - [Find Pivot Index](problems/easy/find-pivot-index/README.md)
+  - [Find the Difference](problems/easy/find-the-difference/README.md)
   - [Find the Highest Altitude](problems/easy/find-the-highest-altitude/README.md)
   - [Find Winner on a Tic Tac Toe Game](problems/easy/find-winner-on-a-tic-tac-toe-game/README.md)
   - [Find Words That Can Be Formed by Characters](problems/easy/find-words-that-can-be-formed-by-characters/README.md)
@@ -96,6 +97,7 @@
   - [Shortest Distance to a Character](problems/easy/shortest-distance-to-a-character/README.md)
   - [Shuffle String](problems/easy/shuffle-string/README.md)
   - [Shuffle the Array](problems/easy/shuffle-the-array/README.md)
+  - [Single Number](problems/easy/single-number/README.md)
   - [Slowest Key](problems/easy/slowest-key/README.md)
   - [Sorting the Sentence](problems/easy/sorting-the-sentence/README.md)
   - [Substrings of Size Three with Distinct Characters](problems/easy/substrings-of-size-three-with-distinct-characters/README.md)
@@ -109,6 +111,7 @@
   - [Two Sum](problems/easy/two-sum/README.md)
   - [Unique Number of Occurrences](problems/easy/unique-number-of-occurrences/README.md)
   - [Valid Anagram](problems/easy/valid-anagram/README.md)
+  - [Word Pattern](problems/easy/word-pattern/README.md)
   - [X of a Kind in a Deck of Cards](problems/easy/x-of-a-kind-in-a-deck-of-cards/README.md)
   - [XOR Operation in an Array](problems/easy/xor-operation-in-an-array/README.md)
 

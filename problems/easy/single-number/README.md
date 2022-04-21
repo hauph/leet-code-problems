@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/single-number/
+- Solution:
+  - [Typescript](index.ts)
+  - [Python](index.py)
