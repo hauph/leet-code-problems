@@ -1,0 +1,4 @@
+- Link: https://leetcode.com/problems/search-in-rotated-sorted-array
+- Solution:
+  - [Typescript](index.ts)
+  - [Python](index.py)

@@ -1,0 +1,3 @@
+- Link: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+- Solution:
+  - [Python](index.py)

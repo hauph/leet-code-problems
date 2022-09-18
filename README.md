@@ -115,7 +115,9 @@
   - [X of a Kind in a Deck of Cards](problems/easy/x-of-a-kind-in-a-deck-of-cards/README.md)
   - [XOR Operation in an Array](problems/easy/xor-operation-in-an-array/README.md)
 
-## Medium: 3 problem
+## Medium: 5 problems
   - [Find All Anagrams in a String](problems/medium/find-all-anagrams-in-a-string/README.md)
+  - [Maximum Number of Coins You Can Get](problems/medium/maximum-number-of-coins-you-can-get/README.md)
+  - [Search in Rotated Sorted Array](problems/medium/search-in-rotated-sorted-array/README.md)
   - [Shifting Letters](problems/medium/shifting-letters/README.md)
   - [Sum of Even Numbers After Queries](problems/medium/sum-of-even-numbers-after-queries/README.md)
